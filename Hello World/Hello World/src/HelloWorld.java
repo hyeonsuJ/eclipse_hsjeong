@@ -4,5 +4,6 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Jeong Hyeonsu");
 		System.out.println("20173310");
+		System.out.println("Digital Contents Engineering");
 	}
 }
